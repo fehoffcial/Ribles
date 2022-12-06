@@ -1,2 +1,3 @@
 @import url("./base/__reset.css"); /* RESET CONFIG CSS */
 @import url("./base/__fonts.css"); /* CONFIG FONTS CSS */
+@import url("./base/__global.css"); /* CONFIG GLOBAL CSS */
