@@ -1,3 +1,7 @@
 @import url("./base/__reset.css"); /* RESET CONFIG CSS */
 @import url("./base/__fonts.css"); /* CONFIG FONTS CSS */
 @import url("./base/__global.css"); /* CONFIG GLOBAL CSS */
+@import url("./layout/style.css"); /* CONFIG DESKTOP CSS */
+@import url("./mobile/style"); /* CONFIG MOBILE CSS */
+@import url("./layout/style.css"); /* CONFIG HEADER  DESKTOP*/
+@import url("./mobile/style.css"); /* CONFIG HEADER MOBILE */

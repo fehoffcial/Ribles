@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+    /* LOGOTIPO CONFIG CSS */
+    .logotipo{
+        margin-left: 2.2rem;
+        padding-top: 1.1rem;
+    }
+    .logolink{
+        width: 5.5rem;
+        height: 7.0rem;
+    }
+}

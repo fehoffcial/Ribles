@@ -1,0 +1,15 @@
+
+/* LOGOTIPO CONFIG CSS */
+.logotipo{
+    margin-left: 3.8rem;
+    padding-top: 1.6rem;
+}
+.logolink{
+    width: 7.5rem;
+    height: 4.0rem;
+    background: url("../../../img/logo/logotipo_header.svg") no-repeat;
+    background-position: center;
+    background-size: 110%;
+    display: inline-block;
+    
+}
